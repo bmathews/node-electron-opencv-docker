@@ -1,4 +1,4 @@
-Based on Node 8.9.3 image, this installs all dependencies needed to run node, electron, and opencv.
+Based on Node 10 image, this installs all dependencies needed to run node, electron, and opencv.
 
 To build:
 
